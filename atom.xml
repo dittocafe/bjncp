@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dittocafe.github.io</id>
     <title>北京西海</title>
-    <updated>2020-03-06T12:09:27.175Z</updated>
+    <updated>2020-03-06T12:18:58.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dittocafe.github.io"/>
     <link rel="self" href="https://dittocafe.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://dittocafe.github.io/images/avatar.png</logo>
     <icon>https://dittocafe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 北京西海</rights>
-    <entry>
-        <title type="html"><![CDATA[这世界本来有很多优秀的网站]]></title>
-        <id>https://dittocafe.github.io/post/zhe-shi-jie-ben-lai-you-hen-duo-you-xiu-de-wang-zhan/</id>
-        <link href="https://dittocafe.github.io/post/zhe-shi-jie-ben-lai-you-hen-duo-you-xiu-de-wang-zhan/">
-        </link>
-        <updated>2020-03-06T11:40:13.000Z</updated>
-        <content type="html"><![CDATA[<p>我们却总是用不了。</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://dittocafe.github.io/post/hello-gridea/</id>
